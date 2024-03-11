@@ -1,1 +1,3 @@
 # DataScience_Hackathon_project4
+
+The data visualization dashboard aims to provide insights into historical movies, including their ratings, release trends, genres, and key contributors. It offers a comprehensive view of the distribution of movie ratings, IMDb ratings over time, genre frequencies, and the geographical distribution of movie production. By analyzing these factors, the dashboard enables users to understand trends, identify popular genres, and recognize significant contributors in the historical movie industry, facilitating informed decision-making and deeper understanding of cinematic history.
